@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.5)
+project(pictcollect)
+add_executable(pictcollect pictcollect.cpp)
+find_package(OpenCV REQUIRED)
+target_link_libraries(pictcollect ${OpenCV_LIBS})
