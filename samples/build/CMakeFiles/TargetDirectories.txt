@@ -1,0 +1,10 @@
+/home/hanc/Code/mynt/mynteye-1.8-linux-x64-gcc5-opencv-3.4.0/samples/build/CMakeFiles/rebuild_cache.dir
+/home/hanc/Code/mynt/mynteye-1.8-linux-x64-gcc5-opencv-3.4.0/samples/build/CMakeFiles/edit_cache.dir
+/home/hanc/Code/mynt/mynteye-1.8-linux-x64-gcc5-opencv-3.4.0/samples/build/CMakeFiles/camera_ctrl.dir
+/home/hanc/Code/mynt/mynteye-1.8-linux-x64-gcc5-opencv-3.4.0/samples/build/CMakeFiles/camera_kitti.dir
+/home/hanc/Code/mynt/mynteye-1.8-linux-x64-gcc5-opencv-3.4.0/samples/build/CMakeFiles/camera_with_plugin.dir
+/home/hanc/Code/mynt/mynteye-1.8-linux-x64-gcc5-opencv-3.4.0/samples/build/CMakeFiles/plugin_ocv_bm.dir
+/home/hanc/Code/mynt/mynteye-1.8-linux-x64-gcc5-opencv-3.4.0/samples/build/CMakeFiles/camera3.dir
+/home/hanc/Code/mynt/mynteye-1.8-linux-x64-gcc5-opencv-3.4.0/samples/build/CMakeFiles/camera.dir
+/home/hanc/Code/mynt/mynteye-1.8-linux-x64-gcc5-opencv-3.4.0/samples/build/CMakeFiles/camera_test.dir
+/home/hanc/Code/mynt/mynteye-1.8-linux-x64-gcc5-opencv-3.4.0/samples/build/CMakeFiles/camera2.dir
