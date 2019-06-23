@@ -1,3 +1,0 @@
-/home/hanc/Code/opencvcode/cameracalibration/build/CMakeFiles/rebuild_cache.dir
-/home/hanc/Code/opencvcode/cameracalibration/build/CMakeFiles/edit_cache.dir
-/home/hanc/Code/opencvcode/cameracalibration/build/CMakeFiles/cameracalibration.dir

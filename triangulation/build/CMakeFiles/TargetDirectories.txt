@@ -1,3 +1,0 @@
-/home/hanc/Code/opencvcode/triangulation/build/CMakeFiles/edit_cache.dir
-/home/hanc/Code/opencvcode/triangulation/build/CMakeFiles/rebuild_cache.dir
-/home/hanc/Code/opencvcode/triangulation/build/CMakeFiles/triangulation.dir

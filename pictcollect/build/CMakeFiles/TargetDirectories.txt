@@ -1,3 +1,0 @@
-/home/hanc/Code/opencvcode/pictcollect/build/CMakeFiles/edit_cache.dir
-/home/hanc/Code/opencvcode/pictcollect/build/CMakeFiles/rebuild_cache.dir
-/home/hanc/Code/opencvcode/pictcollect/build/CMakeFiles/pictcollect.dir
